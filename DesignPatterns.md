@@ -1,6 +1,6 @@
 # Design Patterns
 
-In software engineering, design pattern is a reusable solution to commonly occurring problems. It is a description or template for how to solve a problem that can be used in many different situations. 
+A design pattern is a description or template defined by software industry experts as solution to some of the common problems faced in the world of software design. As a software architect one may face problems designing a software which have already been faced by many others in the industry. In order to make it easier to solve such problems, design patterns have been defined. Design patterns do not provide an exact solution but just a template or a set of guidelines that can be followed in order to make the software expansible, robust, secure and easy to use. One may need to modify a design pattern or use multiple patterns in coordination to solve one's problem.
 
 ## Uses of Design Patterns
 
